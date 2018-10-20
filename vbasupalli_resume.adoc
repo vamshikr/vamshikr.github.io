@@ -151,6 +151,6 @@ Developed a _Palm OS_ based application for a sales team of _Godrej_, a consumer
 *	Basupalli, V. (2011). _The AlphaZ verifier_. Master’s Thesis, Colorado State University, Fort Collins.
 *	Basupalli, V., Yuki, T., Rajopadhye, S.V., Morvan, A., Derrien, S., Quinton, P., Wonnacott, D. (2011). _ompVerify: Polyhedral Analysis for the OpenMP Programmer_. OpenMP in the Petascale Era, 37-53.
 
-==== Online Courses
+==== Continuing Education
 * Neural Networks and Deep Learning, by Andrew Ng. Nov 2017
 * Machine Learning, by Andrew Ng. Aug 2016 - Sep 2016
