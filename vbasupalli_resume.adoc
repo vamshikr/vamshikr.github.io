@@ -130,7 +130,7 @@ Worked on the development of an in-vehicle network sniffer application. This was
 Worked on the development of a https://www.snapon.com/diagnostics/us/ethos[portable vehicle on-board diagnostics scanner]. For the scanner, performed hardware debugging, developed device drivers, implemented vehicle communication protocols, ported and developed system software and GUI for the product +
 *Technologies/Environment:* C/C++, Assembly Languages, Code Warrior, SMX OS, KWP2000, ISO 9141, CAN
 
-.Palm OS based sales application (MindTree, July 2005 - Aug 2005)
+.Palm OS based sales application (MindTree, May 2005 - July 2005)
 Developed a _Palm OS_ based application for a sales team of _Godrej_, a consumer electronics company based in India +
 *Technologies/Environment:* C, Palm OS, Code Warrior
 
