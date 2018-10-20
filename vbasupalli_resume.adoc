@@ -153,4 +153,4 @@ Developed a _Palm OS_ based application for a sales team of _Godrej_, a consumer
 
 ==== Online Courses
 * Neural Networks and Deep Learning, by Andrew Ng. Nov 2017
-* Machine Learning, by Andrew Ng. Aug 2017 - Sep 2017
+* Machine Learning, by Andrew Ng. Aug 2016 - Sep 2016
