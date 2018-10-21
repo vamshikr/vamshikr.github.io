@@ -4,7 +4,7 @@ _Phone_: (970) 372-8572 +
 _Address_: 914 S. Brooks St, Apt 5, Madison, WI-53715
 
 ==== Summary & Highlights
-*	12 years of programming experience in _Systems Programming, High Performance Computing (HPC), Embedded Systems_ and _Software Security_
+*	12 years of programming experience in _Systems Programming, Software Security, High Performance Computing (HPC)_ and _Embedded Systems_
 *	One of the main back-end developers of Department of Homeland Security funded https://continuousassurance.org[Software Assurance Marketplace]
 * Strong knowledge on _Software Security_
 * Experience with developing on/with _Containers (Docker)_ and _Virtual Machines_ in cloud-based environments
