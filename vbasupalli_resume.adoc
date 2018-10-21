@@ -50,16 +50,17 @@ _Address_: 914 S. Brooks St, Apt 5, Madison, WI-53715
 .Software Engineer, Apolent Corporation, Fort Collins, CO. May 2010 – Dec 2011
 - Optimized and vectorized image processing algorithms for a client developing computer-chip-wafer inspection machines
 
-.Software Engineer, MindTree Ltd, Bangalore, India, Mar 2005 – Jul 2008
--	Worked on the development of a portable scanner for vehicle on-board diagnostics and an in-vehicle network sniffer application
--	Developed a _Palm OS_ based application for a sales team of a consumer electronics company
-
 .Graduate Research Assistant, Colorado State University, Fort Collins, CO, Aug 2009 – May 2010
 -	Analyzed North American Animal Disease Spread Model (NAADSM) for performance bottlenecks and provided solutions to remove them.
 -	Thesis: AlphaZ verifier
 
 .Graduate Teaching Assistant, Colorado State University, Fort Collins, CO, Aug 2008 – Dec 2008
 - Conducted recitations and lab sessions for _C++_ programming and _Operating Systems_ classes
+
+.Software Engineer, MindTree Ltd, Bangalore, India, Feb 2005 – Jul 2008
+-	Worked on the development of a portable scanner for vehicle on-board diagnostics and an in-vehicle network sniffer application
+-	Developed a _Palm OS_ based application for a sales team of a consumer electronics company
+
 
 ==== Projects
 
