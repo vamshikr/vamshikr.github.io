@@ -29,7 +29,7 @@ _Address_: 914 S. Brooks St, Apt 5, Madison, WI-53715
 *	Master of Science (Major: Computer Science) with a thesis
 
 ==== Skill Set
-*	_Programming Languages_: Python, Bash, Java, C/C++, JavaScript
+*	_Programming Languages_: Python, Java, Bash, C/C++, JavaScript
 *	_Tools/Libraries/Frameworks_: : Docker, MongoDB, AWS (lightsail, KMS, Route-53, Lambda, SNS), Jenkins, Apache Maven, Apache Ant, Apache Gradle, Eclipse plugin development, JQuery, Bootstrap, Flask, Tornado, Web Sockets, NGINX, dotnet core, Message Passing Interface (MPI), OpenMP, Pthreads, Vectorization and Polyhedral Model Techniques
 *	_Operating Systems_: Linux/Unix, SMX (Embedded OS)
 
