@@ -6,9 +6,9 @@ _Address_: 914 S. Brooks St, Apt 5, Madison, WI-53715
 ==== Summary & Highlights
 *	12 years of programming experience in _Systems Programming, Software Security, High Performance Computing (HPC)_ and _Embedded Systems_
 *	One of the main back-end developers of Department of Homeland Security funded https://continuousassurance.org[Software Assurance Marketplace]
-* Strong knowledge on _Software Security_
 * Experience with developing on/with _Containers (Docker)_ and _Virtual Machines_ in cloud-based environments
 *	Developed _API clients_ and _command line interfaces_ in Python, Java and Bash
+* Good understanding and knowledge on _Software Security_
 *	Experience with _Jenkins_ and _Jenkins_ plugin development
 *	Experience with _Eclipse_ plugin development
 *	Experience with _Amazon Web Services: lightsail, KMS, Route-53, Lambda_ and _SNS_
@@ -19,7 +19,7 @@ _Address_: 914 S. Brooks St, Apt 5, Madison, WI-53715
 *	Worked with embedded systems at a _hardware_ level
 * Experience with documentation markup languages such as _Asciidoc_, _Markdown_ and _LaTeX_
 *	Experience with build systems such as _maven_, _gradle_, _ant_ and _make_
-*	Strong knowledge on source code management systems such as _git_ and _svn_
+*	Good understanding and knowledge on source code management systems such as _git_
 * Experience with version control hosting services such as _GitHub_ and _Bitbucket_
 *	The portable vehicle diagnostic scanner that I significantly contributed towards was chosen by Motor magazine as one of the _best tools for the year 2007_
 * Initiated the usage of _extreme programming_ methodologies into a project that I worked on
@@ -30,7 +30,7 @@ _Address_: 914 S. Brooks St, Apt 5, Madison, WI-53715
 
 ==== Skill Set
 *	_Programming Languages_: Python, Bash, Java, C/C++, JavaScript
-*	_Tools/Libraries/Frameworks_: : Docker, MongoDB, AWS (lightsail, KMS, Route-53, Lambda, SNS), Jenkins, Apache Maven, Apache Ant, Apache Gradle, Eclipse plugin development, JQuery, Bootstrap, Flask, Tornado, Web Sockets, dotnet core, Message Passing Interface (MPI), OpenMP, Pthreads, Vectorization and Polyhedral Model Techniques
+*	_Tools/Libraries/Frameworks_: : Docker, MongoDB, AWS (lightsail, KMS, Route-53, Lambda, SNS), Jenkins, Apache Maven, Apache Ant, Apache Gradle, Eclipse plugin development, JQuery, Bootstrap, Flask, Tornado, Web Sockets, NGINX, dotnet core, Message Passing Interface (MPI), OpenMP, Pthreads, Vectorization and Polyhedral Model Techniques
 *	_Operating Systems_: Linux/Unix, SMX (Embedded OS)
 
 ==== Work Experience/History
