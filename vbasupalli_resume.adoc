@@ -154,5 +154,5 @@ Developed a _Palm OS_ based application for a sales team of _Godrej_, a consumer
 *	Basupalli, V., Yuki, T., Rajopadhye, S.V., Morvan, A., Derrien, S., Quinton, P., Wonnacott, D. (2011). _ompVerify: Polyhedral Analysis for the OpenMP Programmer_. OpenMP in the Petascale Era, 37-53.
 
 ==== Continuing Education
-* Neural Networks and Deep Learning, by Andrew Ng. Nov 2017
-* Machine Learning, by Andrew Ng. Aug 2016 - Sep 2016
+* Neural Networks and Deep Learning, by Andrew Ng on _Coursera_, Nov 2017 - Dec 2017
+* Machine Learning, by Andrew Ng on _Coursera_, Aug 2016 - Sep 2016
