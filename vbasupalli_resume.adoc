@@ -4,58 +4,53 @@ _Phone_: (970) 372-8572 +
 _Address_: 914 S. Brooks St, Apt 5, Madison, WI-53715
 
 ==== Summary & Highlights
-*	12 years of programming experience in _Systems Programming, Software Security, High Performance Computing (HPC)_ and _Embedded Systems_
+*	12 years of programming experience in *Systems Programming, Software Security, High Performance Computing (HPC)* and *Embedded Systems*
 *	One of the main back-end developers of Department of Homeland Security funded https://continuousassurance.org[Software Assurance Marketplace]
-* Experience with developing on/with _Containers (Docker)_ and _Virtual Machines_ in cloud-based environments
-*	Developed _API clients_ and _command line interfaces_ in Python, Java and Bash
-* Good understanding and knowledge on _Software Security_
-*	Experience with _Jenkins_ and _Jenkins_ plugin development
-*	Experience with _Eclipse_ plugin development
-*	Experience with _Amazon Web Services: lightsail, KMS, Route-53, Lambda_ and _SNS_
-*	Experience with NoSQL databases such as _MongoDB_
-* Contributed to open source _software assessment_ tools such as _bandit_ and _PMD_ with providing bug fixes
-*	Experience with programming on multi-cores and SIMD style optimization
+** Developed services that run in *Virtual Machines* and *Containers (Docker)* that run in a in-house cloud-based environment
+** Developed *API clients* and *command line interfaces* for *RESTful Web services* in Python, Java and Bash
+** Co-developed SWAMP *Jenkins* plugin
+** Developed services that run on *Amazon Web Services*: _lightsail, KMS, Route-53, Lambda_ and _SNS_
+** Experience with building indexes and aggregation pipelines for NoSQL databases such as *MongoDB*
+**	Developed plugins for build systems such as *maven*, *gradle* and *ant*
+** Worked with version control hosting services such as *GitHub* and *Bitbucket*
+** Good understanding and knowledge on *Software Security*
+** Contributed to open source software assessment tools such as _bandit_ and _PMD_ with providing bug fixes
+** Written user guides and design guides in documentation markup languages such as _Asciidoc_, _Markdown_ and _LaTeX_
+** Experience with *Eclipse* plugin development
+**	Member of Static Analysis Results Interchange Format (SARIF) technical committee
+*	Experience with programming for multi-cores and SIMD style optimization
 *	Developed/Implemented _vehicle communication protocol stack_
-*	Worked with embedded systems at a _hardware_ level
-* Experience with documentation markup languages such as _Asciidoc_, _Markdown_ and _LaTeX_
-*	Experience with build systems such as _maven_, _gradle_, _ant_ and _make_
-*	Good understanding and knowledge on source code management systems such as _git_
-* Experience with version control hosting services such as _GitHub_ and _Bitbucket_
+*	Worked with embedded systems from a _bare board_ level up to GUI
 *	The portable vehicle diagnostic scanner that I significantly contributed towards was chosen by Motor magazine as one of the _best tools for the year 2007_
-* Initiated the usage of _extreme programming_ methodologies into a project that I worked on
-* Have knowledge on Machine Learning and Deep Learning (via doing online courses)
-*	Member of Static Analysis Results Interchange Format (SARIF) technical committee
-*	Have 4 publications including one first author publication
+* Initiated the usage of *extreme programming* methodologies into a project that I worked on
 *	Master of Science (Major: Computer Science) with a thesis
 
 ==== Skill Set
 *	_Programming Languages_: Python, Java, Bash, C/C++, JavaScript
-*	_Tools/Libraries/Frameworks_: : Docker, MongoDB, AWS (lightsail, KMS, Route-53, Lambda, SNS), Jenkins, Apache Maven, Apache Ant, Apache Gradle, Eclipse plugin development, JQuery, Bootstrap, Flask, Tornado, Web Sockets, NGINX, dotnet core, Message Passing Interface (MPI), OpenMP, Pthreads, Vectorization and Polyhedral Model Techniques
+*	_Tools/Libraries/Frameworks_: : Docker, MongoDB, AWS (lightsail, KMS, Route-53, Lambda, SNS), Jenkins, Apache Maven, Apache Ant, Apache Gradle, Redis, Eclipse plugin development, JQuery, Bootstrap, Flask, Tornado, Web Sockets, SQLite, NGINX, dotnet core, RabbitMQ, Git, HTML, CSS, Message Passing Interface (MPI), OpenMP, Pthreads, Vectorization and Polyhedral Model Techniques
 *	_Operating Systems_: Linux/Unix, SMX (Embedded OS)
 
 ==== Work Experience/History
 
 .Systems Programmer, Software Assurance Marketplace (SWAMP). Feb 2013 – Oct 2018
--	SWAMP is funded by Department of Homeland Security (DHS) and is a collaborative effort of Morgridge Institute for Research, Madison; NCSA & University of Illinois, Urbana-Champaign; Indiana University, Bloomington and the University of Wisconsin, Madison
--	Technical lead and one of the main back-end developers for SWAMP. Main responsibilities include automating the application of software assessment tools for languages such as _Java, .NET, Python, Ruby, PHP_ and _JavaScript_
--	Point of contact to technical partners, commercial, academic and government, both in the areas of developing new tool technologies and applying these technologies in SWAMP
--	Added 26 different open source and commercial software assessment tools covering various languages, frameworks and capabilities
--	Co-lead development of SWAMP API, CLI and plugins for Jenkins and Eclipse
-- Mentored 10 graduate students in building various tools for SWAMP
+SWAMP is funded by Department of Homeland Security (DHS) and is a collaborative effort of Morgridge Institute for Research, Madison; NCSA & University of Illinois, Urbana-Champaign; Indiana University, Bloomington and the University of Wisconsin, Madison
+
+*	Technical lead and one of the main back-end developers for SWAMP. Main responsibilities include automating the application of software assessment tools for languages such as _Java, .NET, Python, Ruby, PHP_ and _JavaScript_
+*	Point of contact to technical partners, commercial, academic and government, both in the areas of developing new tool technologies and applying these technologies in SWAMP
+*	Added 26 different open source and commercial software assessment tools covering various languages, frameworks and capabilities
+*	Co-lead the development of SWAMP API, CLI and plugins for Jenkins and Eclipse
+* Mentored 10 graduate students in building various tools for SWAMP
 
 
 .Research Associate, Pacific Northwest National Laboratory, Richland, WA. Mar 2012 – Jan 2013
--	Worked on developing an HPC framework to scale simulation/modeling software systems and evaluated/studied Bio-inspired solutions for problems in Smart Grids
+*	Worked on developing an HPC framework to scale simulation/modeling software systems
+* Evaluated/studied Bio-inspired solutions for problems in Smart Grids
 
 .Software Engineer, Apolent Corporation, Fort Collins, CO. May 2010 – Dec 2011
-- Optimized and vectorized image processing algorithms for a client developing computer-chip-wafer inspection machines
+* Optimized and vectorized image processing algorithms for a client developing computer-chip-wafer inspection machines
 
 .Graduate Research Assistant, Colorado State University, Fort Collins, CO, Aug 2009 – May 2010
--	Analyzed North American Animal Disease Spread Model (NAADSM) for performance bottlenecks and provided solutions to remove them.
--	Thesis: AlphaZ verifier
-
-.Graduate Teaching Assistant, Colorado State University, Fort Collins, CO, Aug 2008 – Dec 2008
-- Conducted recitations and lab sessions for _C++_ programming and _Operating Systems_ classes
+*	Analyzed North American Animal Disease Spread Model (NAADSM) for performance bottlenecks and provided solutions to remove them
 
 .Software Engineer, MindTree Ltd, Bangalore, India, Feb 2005 – Jul 2008
 -	Worked on the development of a portable scanner for vehicle on-board diagnostics and an in-vehicle network sniffer application
@@ -90,7 +85,7 @@ Co-Developed a  _Jenkins_ plug-in that allows Jenkins projects to use SWAMP to p
 
 .SWAMP blueJ plugin (UW-Madison, Mar 2014 - Apr 2014)
 Developed a _blueJ_ IDE plug-in to perform static code assessments in SWAMP +
-*Technologies/Environment:* Java
+*Technologies/Environment:* Java, blueJ
 
 .SCARF viewer (UW-Madison, Mar 2016 - Apr 2016)
 Developed a web based application to display SWAMP Common Assessment Results Format (SCARF) results. The SCARF results are displayed in a tabular format along side the source code. +
