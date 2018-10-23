@@ -134,7 +134,6 @@ Developed a _Palm OS_ based application for a sales team of _Godrej_, a consumer
 ==== Links
 *	Github: https://github.com/vamshikr
 *	Google Scholar: https://scholar.google.com/citations?user=EpBEY-MAAAAJ
-* Bitbucket: https://bitbucket.org/vamshi_kr
 
 ==== Educational Background
 * _Master of Science_ in Computer Science, Aug 2008 to Dec 2011, Colorado State University, Fort Collins, CO
