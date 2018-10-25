@@ -16,8 +16,6 @@ _Address_: 914 S. Brooks St, Apt 5, Madison, WI-53715
 ** Good understanding and knowledge on *Software Security*
 ** Contributed to open source software assessment tools such as _bandit_ and _PMD_ with providing bug fixes
 ** Written user guides and design guides in documentation markup languages such as _Asciidoc_, _Markdown_ and _LaTeX_
-** Experience with *Eclipse* plugin development
-**	Member of Static Analysis Results Interchange Format (SARIF) technical committee
 *	Experience with programming for multi-cores and SIMD style optimization
 *	Developed/Implemented _vehicle communication protocol stack_
 *	Worked with embedded systems from a _bare board_ level up to GUI
@@ -26,9 +24,21 @@ _Address_: 914 S. Brooks St, Apt 5, Madison, WI-53715
 *	Master of Science (Major: Computer Science) with a thesis
 
 ==== Skill Set
-*	_Programming Languages_: Python, Java, Bash, C/C++, JavaScript
-*	_Tools/Libraries/Frameworks_: : Docker, MongoDB, AWS (lightsail, KMS, Route-53, Lambda, SNS), Jenkins, Apache Maven, Apache Ant, Apache Gradle, Redis, Eclipse plugin development, JQuery, Bootstrap, Flask, Tornado, Web Sockets, SQLite, NGINX, dotnet core, RabbitMQ, Git, HTML, CSS, Message Passing Interface (MPI), OpenMP, Pthreads, Vectorization and Polyhedral Model Techniques
-*	_Operating Systems_: Linux/Unix, SMX (Embedded OS)
+
+[width="90%",cols="32%,68%",style="literal"]
+|==========================
+| Languages | Python, Java, Bash, C/C++, JavaScript, HTML5, CSS3
+| Web Frameworks | Flask, Tornado
+| Web Frontend | JQuery, Bootstrap, Web Sockets
+| Databases | MongoDB, SQlite, PostgreSQL
+| Cloud | AWS (lightsail, KMS, Route-53, Lambda, SNS)
+| Message Queues | RabbitMQ, Redis
+| Virtualization | Docker, Virtual Machines
+| CI/CD | Jenkins, TravisCI
+| Distributed Systems/High Performance Computing | Granules, Message Passing Interface (MPI), OpenMP, Pthreads, Vectorization and Polyhedral Model Techniques
+| Build Systems | Maven, Gradle, Ant, Make
+| Operating Systems | Linux/Unix, SMX (an Embedded OS)
+|==========================
 
 ==== Work Experience/History
 
