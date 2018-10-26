@@ -102,7 +102,7 @@ Developed a web based application to display SWAMP Common Assessment Results For
 *Technologies/Environment:* Python, Javascript, Flask, MongoDB, Prism and jQuery.
 
 .GitHub to SWAMP (UW-Madison, Nov 2016 - Nov 2016)
-Developed a AWS Lambda function to upload and assess software on GitHub in SWAMP. The assessment get triggered for _push_ or _commit_ events on GitHub+
+Developed a AWS Lambda function to upload and assess software on GitHub in SWAMP. The assessment get triggered for _push_ or _commit_ events on GitHub +
 *Technologies/Environment:* AWS Lambda, AWS SNS, Python
 
 .CodeDx verification (UW-Madison, Sep 2015 - Sep 2015)
