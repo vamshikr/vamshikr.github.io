@@ -1,48 +1,48 @@
 === Vamshi Basupalli
-_Email-id_: vamshi_kr@hotmail.com +
+_Email-id_: vamshi.basupalli@outlook.com +
 _Phone_: (970) 372-8572 +
-_Address_: 914 S. Brooks St, Apt 5, Madison, WI-53715
+_Address_: 2811 La Frontera Blvd, Apt 1314, Austin, TX-78728
 
 ==== Summary & Highlights
-*	12 years of programming experience in *Systems Programming, Software Security, High Performance Computing (HPC)* and *Embedded Systems*
-*	One of the main back-end developers of Department of Homeland Security funded https://continuousassurance.org[Software Assurance Marketplace]
-** Developed services that run in *Virtual Machines* and *Containers (Docker)* that run in a in-house cloud-based environment
-** Developed *API clients* and *command line interfaces* for *RESTful Web services* in Python, Java and Bash
-** Co-developed SWAMP *Jenkins* plugin
-** Developed services that run on *Amazon Web Services*: _lightsail, KMS, Route-53, Lambda_ and _SNS_
-** Experience with building indexes and aggregation pipelines for NoSQL databases such as *MongoDB*
-**	Developed plugins for build systems such as *maven*, *gradle* and *ant*
-** Worked with version control hosting services such as *GitHub* and *Bitbucket*
-** Good understanding and knowledge on *Software Security*
-** Contributed to open source software assessment tools such as _bandit_ and _PMD_ with providing bug fixes
-** Written user guides and design guides in documentation markup languages such as _Asciidoc_, _Markdown_ and _LaTeX_
-*	Experience with programming for multi-cores and SIMD style optimization
-*	Developed/Implemented _vehicle communication protocol stack_
-*	Worked with embedded systems from a _bare board_ level up to GUI
+*	7 years of software development experience with *Python* echo-system
+* Overall 13 years of professional programming experience in *Web Application Development*, *Systems Programming, Software Security, High Performance Computing (HPC)* and *Embedded Systems*
+* Developed RESTful web services/applications with _Python Web Frameworks_ such as *aiohttp*, *Flask* and *Tornado*
+* Built complex aggregation pipelines with *MongoDB* and *Elasticsearch*
+* Worked with orchestration and containerization technologies such as *Kubernetes* and *Docker*
+* Developed API clients and command line interfaces for _RESTful Web services_ in Python, Java and Bash
+* Developed  services that run on *Amazon Web Services*: _cloudwatch, lightsail, KMS, Route-53, Lambda_ and _SNS_
+*	Developed plugins for Jenkins, and build systems such as *maven*, *gradle* and *ant*
 *	The portable vehicle diagnostic scanner that I significantly contributed towards was chosen by Motor magazine as one of the _best tools for the year 2007_
-* Initiated the usage of *extreme programming* methodologies into a project that I worked on
-*	Master of Science (Major: Computer Science) with a thesis
+*	Master of Science (Major: Computer Science) with a thesis and few published papers
 
 ==== Skill Set
 
 [width="90%",cols="32%,68%",style="literal"]
 |==========================
 | Languages | Python, Java, Bash, C/C++, JavaScript, HTML5, CSS3
-| Web Frameworks | Flask, Tornado
+| Web Frameworks | aiohttp, Flask-RESTPlus, Flask, Tornado
 | Web Frontend | JQuery, Bootstrap, Web Sockets
-| Databases | MongoDB, SQlite, PostgreSQL
-| Cloud | AWS (lightsail, KMS, Route-53, Lambda, SNS)
+| Databases | MongoDB, Elasticsearch, PostgreSQL, SQlite
+| Cloud | AWS (cloudwatch, lightsail, KMS, Route-53, Lambda, SNS, boto3)
 | Message Queues | RabbitMQ, Redis
-| Virtualization | Docker, Virtual Machines
+| Virtualization | Kubernetes, Docker, Virtual Machines
 | CI/CD | Jenkins, TravisCI
-| Distributed Systems/High Performance Computing | Granules, Message Passing Interface (MPI), OpenMP, Pthreads, Vectorization and Polyhedral Model Techniques
+| Distributed Systems/High Performance Computing | Message Passing Interface (MPI), OpenMP, Pthreads, Vectorization and Polyhedral Model Techniques
 | Build Systems | Maven, Gradle, Ant, Make
 | Operating Systems | Linux/Unix, SMX (an Embedded OS)
 |==========================
 
 ==== Work Experience/History
 
-.Systems Programmer, Software Assurance Marketplace (SWAMP). Feb 2013 – Oct 2018
+.Senior Software Engineer, IBM, Austin, Tx. Dec 2018 – till date
+Working on building an IBM enterprise product for multi-cloud resource management. It is a micro-services based application that uses Kubernetes for container orchestration.
+
+* Technical lead and senior backend developer for *health* part of the product.
+* Used aiohttp, Flask-RESTPlus, MongoDB, RabbitMQ, Elasticsearch, Docker and Kubernetes to develop the RESTful backend micro-services
+* Worked closely with architects to design the micro-services and database schemas
+* Designed and developed alternate database schema which improved performance of the MCMS health dashboard by 20 times
+
+.Systems Programmer, University of Wisconsin-Madison, Madison, WI. Feb 2013 – Oct 2018
 SWAMP is funded by Department of Homeland Security (DHS) and is a collaborative effort of Morgridge Institute for Research, Madison; NCSA & University of Illinois, Urbana-Champaign; Indiana University, Bloomington and the University of Wisconsin, Madison
 
 *	Technical lead and one of the main back-end developers for SWAMP. Main responsibilities include automating the application of software assessment tools for languages such as _Java, .NET, Python, Ruby, PHP_ and _JavaScript_
@@ -65,81 +65,6 @@ SWAMP is funded by Department of Homeland Security (DHS) and is a collaborative 
 .Software Engineer, MindTree Ltd, Bangalore, India, Feb 2005 – Jul 2008
 -	Worked on the development of a portable scanner for vehicle on-board diagnostics and an in-vehicle network sniffer application
 -	Developed a _Palm OS_ based application for a sales team of a consumer electronics company
-
-
-==== Projects
-
-.Java Integration to SWAMP (UW-Madison, Feb 2013 - Oct 2018)
-Added _Java_ software assessment support to SWAMP. Java software that use build systems such as _Apache Ant, Apache Maven, Gradle_ can be automatically assessed with various tools such as _Checkstyle, PMD, SpotBugs, error-prone, OWASP Dependency Check, Parasoft Jtest_ and _Sonatype Application Health Check_ +
-*Technologies/Environment:* Python, Java, Ant, Maven, Gradle, Linux
-
-.Dotnet Integration to SWAMP (UW-Madison, Jan 2018 - Oct 2018)
-Added _.NET core_ software assessment support to SWAMP. _.NET core_ software that use _MSBuild_ for build systems can be automatically assessed with tools such as _Security Code Scan, Code Cracker_  and _Devskim_ +
-*Technologies/Environment:* Python, .NET core, MSBuild, Linux
-
-.Python, Javascript, Ruby, PHP Integration in SWAMP (UW-Madison, Apr 2015 - Oct 2018)
-Added _Python, Javascript, Ruby, PHP_ software assessment support to SWAMP. Tools such as  _Bandit, Flake8, Pylint, ESLint, Flow, JSHint, Brakeman, Dawnscanner, Reek, RuboCop, ruby-lint, PHP CodeSniffer_ and _PMPMD_ can be automatically applied to software written in _Python, Javascript, Ruby_ and _PHP_ +
-*Technologies/Environment:* Python, Ruby, Linux
-
-.SWAMP Java CLI (UW-Madison, May 2016 - Oct 2018)
-The SWAMP Java CLI is a _Java library_ and a _command line interface_ that provides many common operations to a SWAMP instance such as create/upload software packages (versions), configure/start an assessment, check the status of an assessment, and download SCARF results. The Java library is used by SWAMP _Jenkins_ and _Eclipse_ plugins +
-*Technologies/Environment:* Java, Eclipse
-
-.SWAMP Python CLI (UW-Madison, Aug 2016 - Oct 2018)
-The Python API and CLI for SWAMP, like the _SWAMP Java CLI_ +
-*Technologies/Environment:* Python
-
-.SWAMP Jenkins plugin  (UW-Madison, Dec 2016 - Oct 2018)
-Co-Developed a  _Jenkins_ plug-in that allows Jenkins projects to use SWAMP to perform static code assessments on their code +
-*Technologies/Environment:* Jenkins, Java
-
-.SWAMP blueJ plugin (UW-Madison, Mar 2014 - Apr 2014)
-Developed a _blueJ_ IDE plug-in to perform static code assessments in SWAMP +
-*Technologies/Environment:* Java, blueJ
-
-.SCARF viewer (UW-Madison, Mar 2016 - Apr 2016)
-Developed a web based application to display SWAMP Common Assessment Results Format (SCARF) results. The SCARF results are displayed in a tabular format along side the source code. +
-*Technologies/Environment:* Python, Javascript, Flask, MongoDB, Prism and jQuery.
-
-.GitHub to SWAMP (UW-Madison, Nov 2016 - Nov 2016)
-Developed a AWS Lambda function to upload and assess software on GitHub in SWAMP. The assessment get triggered for _push_ or _commit_ events on GitHub +
-*Technologies/Environment:* AWS Lambda, AWS SNS, Python
-
-.CodeDx verification (UW-Madison, Sep 2015 - Sep 2015)
-A set of programs to start a https://codedx.com/[CodeDx] viewer instance in a linux based virtual machine, upload SCARF results, download results from the CodeDx viewer +
-*Technologies/Environment:* Bash
-
-.HPC framework for Electric Grids (PNNL, Mar 2012 - Jan 2013)
-Developed a HPC framework to scale simulation/modeling of electric grid software systems +
-*Technologies/Environment:* C/C++, MPI, Pthreads
-
-.Bio-Inspired solutions (PNNL, Mar 2012 - Sep 2012)
-Evaluated/studied Bio-Inspired solutions for problems in Smart Grids +
-*Technologies/Environment:* NetLogo
-
-.Optimizing image processing algorithms (Apolent Corp, May 2010 - Dec 2011)
-Used advanced techniques such as _Polyhedral Model_ and _Vectorization_ to optimize the performance of image processing algorithms for a client developing computer chip wafer inspection machines +
-*Technologies/Environment:* C/C++, SIMD intrinsics, Polyhedral Model
-
-.AlphaZ verifier (Colorado State University, Jun 2010 - May 2011)
-A tool that is part of _AlphaZ_, a research compiler framework based on _Polyhedral Model_. The AlphaZ verifier validates the legality of optimizing transformations for a given computation. The same AlphaZ verifier is used as the back-end engine for ompVerify, a static analysis tool to detect incorrect parallelization in _OpenMP_ programs +
-*Technologies/Environment:* Java, Polyhedral Model
-
-.Optimizing  North American Animal Disease Spread Model (Colorado State University, Aug 2009 - May 2010)
-Analyzed North American Animal Disease Spread Model (NAADSM) software for performance hot-spots and provided solutions to remove the performance bottlenecks. Additionally, did a coarse grain parallelization of NAADSM using _Granules_, a cloud computing framework +
-*Technologies/Environment:* C/C++, Granules, Linux
-
-.In-vehicle network sniffer application (MindTree, Jan 2008 - Jun 2008)
-Worked on the development of an in-vehicle network sniffer application. This was on the same platform as the vehicle on-board diagnostics scanner +
-*Technologies/Environment:* C/C++, Assembly Languages, Code Warrior, SMX OS, KWP2000, ISO 9141, CAN
-
-.Vehicle on-board diagnostics scanner (MindTree, Aug 2005 - Dec 2007)
-Worked on the development of a https://www.snapon.com/diagnostics/us/ethos[portable vehicle on-board diagnostics scanner]. For the scanner, performed hardware debugging, developed device drivers, implemented vehicle communication protocols, ported and developed system software and GUI for the product +
-*Technologies/Environment:* C/C++, Assembly Languages, Code Warrior, SMX OS, KWP2000, ISO 9141, CAN
-
-.Palm OS based sales application (MindTree, May 2005 - July 2005)
-Developed a _Palm OS_ based application for a sales team of _Godrej_, a consumer electronics company based in India +
-*Technologies/Environment:* C, Palm OS, Code Warrior
 
 ==== Links
 *	Github: https://github.com/vamshikr
