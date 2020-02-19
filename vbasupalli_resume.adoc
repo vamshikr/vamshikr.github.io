@@ -1,13 +1,16 @@
 === Vamshi Basupalli
 _Email-id_: vamshi_kr@hotmail.com +
 _Phone_: (970) 372-8572 +
-_Address_: 914 S. Brooks St, Apt 5, Madison, WI-53715
+_Address_: 2811 La Frontera Blvd, Apt 1314, Austin, TX-78728
 
 ==== Summary & Highlights
-*	12 years of programming experience in *Systems Programming, Software Security, High Performance Computing (HPC)* and *Embedded Systems*
+*	13 years of programming experience in *Systems Programming, Software Security, High Performance Computing (HPC)* and *Embedded Systems*
+* Developed RESTful web services/applications with _Python Web Frameworks_ such as _aiohttp_, _Flask_ and _Tornado_
+* Built complex aggregation pipelines with _MongoDB_ and _Elasticsearch_
+* Well versed with orchestration and containerization technologies such as _Kubernetes_ and _Docker_
+* Developed API clients and command line interfaces for _RESTful Web services_ in Python, Java and Bash
 *	One of the main back-end developers of Department of Homeland Security funded https://continuousassurance.org[Software Assurance Marketplace]
 ** Developed services that run in *Virtual Machines* and *Containers (Docker)* that run in a in-house cloud-based environment
-** Developed *API clients* and *command line interfaces* for *RESTful Web services* in Python, Java and Bash
 ** Co-developed SWAMP *Jenkins* plugin
 ** Developed services that run on *Amazon Web Services*: _lightsail, KMS, Route-53, Lambda_ and _SNS_
 ** Experience with building indexes and aggregation pipelines for NoSQL databases such as *MongoDB*
@@ -28,12 +31,12 @@ _Address_: 914 S. Brooks St, Apt 5, Madison, WI-53715
 [width="90%",cols="32%,68%",style="literal"]
 |==========================
 | Languages | Python, Java, Bash, C/C++, JavaScript, HTML5, CSS3
-| Web Frameworks | Flask, Tornado
+| Web Frameworks | aiohttp, Flask-RESTPlus, Flask, Tornado
 | Web Frontend | JQuery, Bootstrap, Web Sockets
 | Databases | MongoDB, SQlite, PostgreSQL
 | Cloud | AWS (lightsail, KMS, Route-53, Lambda, SNS)
 | Message Queues | RabbitMQ, Redis
-| Virtualization | Docker, Virtual Machines
+| Virtualization | Kubernetes, Helm, Docker, Virtual Machines
 | CI/CD | Jenkins, TravisCI
 | Distributed Systems/High Performance Computing | Granules, Message Passing Interface (MPI), OpenMP, Pthreads, Vectorization and Polyhedral Model Techniques
 | Build Systems | Maven, Gradle, Ant, Make
@@ -41,6 +44,16 @@ _Address_: 914 S. Brooks St, Apt 5, Madison, WI-53715
 |==========================
 
 ==== Work Experience/History
+
+.Senior Software Engineer, IBM, Austin, Tx. Dec 2018 – till date
+Working on building an IBM product for multi-cloud management. Technical lead and senior backend developer for _health_ and _APM_ parts of the product
+
+* Used _aiohttp, Flask-RESTPlus, MongoDB, RabbitMQ, Elasticsearch_ and _Kubernetes_ to develop the RESTful backend micro-services
+* Worked closely with architects to design the micro-services and database schemas
+* Designed and developed alternate database schema which improved performance of the MCMS health dashboard by 20 times
+
+**Tools/Technologies**: Python, Docker, Kubernetes, MongoDB, RabbitMQ, Elasticsearch, Bash, Linux
+
 
 .Systems Programmer, University of Wisconsin-Madison, Madison, WI. Feb 2013 – Oct 2018
 SWAMP is funded by Department of Homeland Security (DHS) and is a collaborative effort of Morgridge Institute for Research, Madison; NCSA & University of Illinois, Urbana-Champaign; Indiana University, Bloomington and the University of Wisconsin, Madison
@@ -51,23 +64,54 @@ SWAMP is funded by Department of Homeland Security (DHS) and is a collaborative 
 *	Co-lead the development of SWAMP API, CLI and plugins for Jenkins and Eclipse
 * Mentored 10 graduate students in building various tools for SWAMP
 
+**Tools/Technologies**: Python, Docker, Java, MongoDB, Bash, Linux
 
 .Research Associate, Pacific Northwest National Laboratory, Richland, WA. Mar 2012 – Jan 2013
 *	Worked on developing an HPC framework to scale simulation/modeling software systems
 * Evaluated/studied Bio-inspired solutions for problems in Smart Grids
 
+**Tools/Technologies**: Python, C/C++, pThreads, NetLogo, Linux
+
 .Software Engineer, Apolent Corporation, Fort Collins, CO. May 2010 – Dec 2011
 * Optimized and vectorized image processing algorithms for a client developing computer-chip-wafer inspection machines
 
+**Tools/Technologies**: C/C++, Intel intrinsic, Polyhedral model techniques, , Linux
+
 .Graduate Research Assistant, Colorado State University, Fort Collins, CO, Aug 2009 – May 2010
 *	Analyzed North American Animal Disease Spread Model (NAADSM) for performance bottlenecks and provided solutions to remove them
+
+**Tools/Technologies**: C/C++, Linux
 
 .Software Engineer, MindTree Ltd, Bangalore, India, Feb 2005 – Jul 2008
 -	Worked on the development of a portable scanner for vehicle on-board diagnostics and an in-vehicle network sniffer application
 -	Developed a _Palm OS_ based application for a sales team of a consumer electronics company
 
+**Tools/Technologies**: Embedded C/C++, SMS
 
 ==== Projects
+
+.Health service (IBM, Dec 2018 - May 2019)
+List view, top-insight
+.Aggregation service (IBM, Jan 2018 - May 2019)
+Tree map, availability aggregation, kpi aggregation
+
+.Revised datamodel (IBM, May 2019)
+Improved datamodel
+
+.Export DB (IBM, July 2019 - Aug 2019)
+Export db micro-service for analytics
+
+.Move to Elastic (Sep 2019)
+POC: Elastic instead of MongoDB
+
+.AWS cloudwatch adapter (Oct 2019 - Nov 2019)
+Get cloudwatch metrics into Elastic
+
+.v2 deployment with Helm (Nov 2019)
+Got V2 deployment scripts using Helm
+
+.Open service broker(Dec 2019 - Jan 2020)
+OSB for multi-tenancy
 
 .Java Integration to SWAMP (UW-Madison, Feb 2013 - Oct 2018)
 Added _Java_ software assessment support to SWAMP. Java software that use build systems such as _Apache Ant, Apache Maven, Gradle_ can be automatically assessed with various tools such as _Checkstyle, PMD, SpotBugs, error-prone, OWASP Dependency Check, Parasoft Jtest_ and _Sonatype Application Health Check_ +
