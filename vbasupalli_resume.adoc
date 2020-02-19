@@ -1,5 +1,5 @@
 === Vamshi Basupalli
-_Email-id_: vamshi_kr@hotmail.com +
+_Email-id_: vamshi.basupalli@outlook.com +
 _Phone_: (970) 372-8572 +
 _Address_: 2811 La Frontera Blvd, Apt 1314, Austin, TX-78728
 
@@ -23,8 +23,7 @@ _Address_: 2811 La Frontera Blvd, Apt 1314, Austin, TX-78728
 *	Developed/Implemented _vehicle communication protocol stack_
 *	Worked with embedded systems from a _bare board_ level up to GUI
 *	The portable vehicle diagnostic scanner that I significantly contributed towards was chosen by Motor magazine as one of the _best tools for the year 2007_
-* Initiated the usage of *extreme programming* methodologies into a project that I worked on
-*	Master of Science (Major: Computer Science) with a thesis
+*	Master of Science (Major: Computer Science) with a thesis and few published papers
 
 ==== Skill Set
 
@@ -33,12 +32,12 @@ _Address_: 2811 La Frontera Blvd, Apt 1314, Austin, TX-78728
 | Languages | Python, Java, Bash, C/C++, JavaScript, HTML5, CSS3
 | Web Frameworks | aiohttp, Flask-RESTPlus, Flask, Tornado
 | Web Frontend | JQuery, Bootstrap, Web Sockets
-| Databases | MongoDB, SQlite, PostgreSQL
-| Cloud | AWS (lightsail, KMS, Route-53, Lambda, SNS)
+| Databases | MongoDB, Elasticsearch, PostgreSQL, SQlite
+| Cloud | AWS (cloudwatch, lightsail, KMS, Route-53, Lambda, SNS, boto3)
 | Message Queues | RabbitMQ, Redis
 | Virtualization | Kubernetes, Helm, Docker, Virtual Machines
 | CI/CD | Jenkins, TravisCI
-| Distributed Systems/High Performance Computing | Granules, Message Passing Interface (MPI), OpenMP, Pthreads, Vectorization and Polyhedral Model Techniques
+| Distributed Systems/High Performance Computing | Message Passing Interface (MPI), OpenMP, Pthreads, Vectorization and Polyhedral Model Techniques
 | Build Systems | Maven, Gradle, Ant, Make
 | Operating Systems | Linux/Unix, SMX (an Embedded OS)
 |==========================
