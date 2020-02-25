@@ -1,0 +1,190 @@
+{
+  "basics": {
+    "name": "Vamshi Basupalli",
+    "summary": "I am a Software Engineer. I build micro-services using Python asyncio, Kubernetes, MongoDB, ElasticSearch, RabbitMQ, Docker and Bash. In my career spanning 15 years, I have worked on Web Application Backend, Systems Programming, Software Security, High Performance Computing and Embedded Systems.",
+    "picture": "",
+    "email": "vamshi.basupalli@outlook.com",
+    "phone": "",
+    "website": "https://vamshikr.github.io/",
+    "label": "Computer Software",
+    "location": {
+      "address": "2811 La Frontera Blvd",
+      "postalCode": "78728",
+      "city": "Austin",
+      "countryCode": "US",
+      "region": "Texas"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "vamshikr6",
+        "url": "https://twitter.com/vamshikr6"
+      },
+      {
+        "network": "Github",
+        "username": "vamshikr",
+        "url": "https://github.com/vamshikr"
+      },
+      {
+        "network": "Linkedin",
+        "url": "https://www.linkedin.com/in/vamshi-basupalli-94969644/"
+      },
+      {
+        "network": "GoogleScholar",
+        "url": "https://scholar.google.com/citations?user=EpBEY-MAAAAJ"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "IBM, Austin, Texas",
+      "position": "Senior Software Engineer",
+      "website": "",
+      "startDate": "2018-12-03",
+      "summary": "Built Multi Cloud Management Platform (MCMP), an IBM enterprise product. Technical lead and senior backend developer for health and multi-tenancy parts of the product",
+      "highlights": []
+    },
+    {
+      "company": "University of Wisconsin-Madison, Madison, Wisconsin",
+      "position": "Systems Programmer",
+      "website": "https://www.mir-swamp.org/",
+      "startDate": "2013-02-08",
+      "summary": "Technical lead and one of the main back-end developers for Software Assurance Marketplace (SWAMP). For SWAMP, I automated the application of software assessment tools for languages such as Java, .NET, Python, Ruby, PHP and JavaScript",
+      "highlights": [],
+      "endDate": "2018-09-30"
+    },
+    {
+      "company": "Pacific Northwest National Laboratory, Richland, Washington",
+      "position": "Research Associate",
+      "website": "",
+      "startDate": "2012-03-01",
+      "summary": "Developed HPC framework to scale simulation/modeling software systems. Evaluated/studied Bio-inspired solutions for problems in Smart Grids",
+      "highlights": [],
+      "endDate": "2013-01-30"
+    },
+    {
+      "company": "Apolent Corporation, Fort Collins, Colorado",
+      "position": "Software Engineer",
+      "website": "",
+      "startDate": "2010-05-01",
+      "summary": "Optimized and vectorized image processing algorithms for a client developing computer-chip-wafer inspection machines",
+      "highlights": [],
+      "endDate": "2011-12-30"
+    },
+    {
+      "company": "Colorado State University, Fort Collins, Colorado",
+      "position": "Graduate Research Assistant",
+      "website": "",
+      "startDate": "2009-08-01",
+      "summary": "Analyzed North American Animal Disease Spread Model (NAADSM) for performance bottlenecks and provided solutions to remove them",
+      "highlights": [],
+      "endDate": "2010-04-30"
+    },
+    {
+      "company": "MindTree Ltd, Bengaluru, Karnataka",
+      "position": "Software Engineer",
+      "website": "",
+      "startDate": "2005-02-01",
+      "summary": "Worked on the development of a portable scanner for vehicle on-board diagnostics and an in-vehicle network sniffer application. Developed a Palm OS based application for a sales team of a consumer electronics company",
+      "highlights": [],
+      "endDate": "2008-07-30"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Colorado State University, Fort Collins, Colorado",
+      "area": "Computer Sciences",
+      "studyType": "Master of Science",
+      "startDate": "2008-08-01",
+      "gpa": "",
+      "courses": [],
+      "endDate": "2011-12-31"
+    },
+    {
+      "institution": "ACTS, CDAC, Bengaluru, Karnataka",
+      "area": "Computer Sciences",
+      "studyType": "PG Diploma in Advanced Computing",
+      "startDate": "2014-12-31",
+      "gpa": "",
+      "courses": [],
+      "endDate": "2016-12-31"
+    },
+    {
+      "institution": "Jawaharlal Nehru Technological University, Hyderabad, Telangana ",
+      "area": "Computer Sciences",
+      "studyType": "Bachelor of Technology",
+      "startDate": "1999-06-01",
+      "gpa": "",
+      "courses": [],
+      "endDate": "2003-05-31"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Languages",
+      "level": "",
+      "keywords": ["Python", "Bash", "Java", "C/C++", "JavaScript", "HTML5", "CSS3"]
+    },
+    {
+      "name": "Web Frameworks",
+      "level": "",
+      "keywords": ["aiohttp", "Tornado", "Flask-RESTPlus", "Flask"]
+    },
+    {
+      "name": "Orcherstration/Deployment",
+      "level": "",
+      "keywords": ["Kubernetes", "Helm", "Docker", "Virtual Machines"]
+    },
+    {
+      "name": "Databases",
+      "level": "",
+      "keywords": ["MongoDB", "Elasticsearch", "PostgreSQL", "SQlite"]
+    },
+    {
+      "name": "AWS",
+      "level": "",
+      "keywords": ["cloudwatch", "lightsail", "KMS", "Route-53", "Lambda", "SNS", "boto3"]
+    },
+    {
+      "name": "Message Queues",
+      "level": "",
+      "keywords": ["RabbitMQ", "Redis"]
+    },
+    {
+      "name": "Web Frontend",
+      "level": "",
+      "keywords": ["JQuery", "Bootstrap", "Web Sockets"]
+    },
+    {
+      "name": "CI/CD",
+      "level": "",
+      "keywords": ["Jenkins", "TravisCI"]
+    },
+    {
+      "name": "Build Systems",
+      "level": "",
+      "keywords": ["Maven", "Gradle", "Ant", "Make"]
+    },
+    {
+      "name": "Operating Systems",
+      "level": "",
+      "keywords": ["Linux/Unix", "SMX (an Embedded OS)"]
+    }
+  ],
+  "publications": [
+    {
+      "name": "Kupsch, J. A.; Miller, B.; Basupalli, V. and Burger, J. (2017). From Continuous Integration to Continuous Assurance"
+    },
+    {
+      "name": "Kupsch, J. A.; Heymann, E.; Miller, B.; and Basupalli, V. (2016). Bad and good news about using software assurance tools. Software: Practice and Experience 47 (1), 143-156"
+    },
+    {
+      "name": "Yuki, T.; Basupalli, V.; Gupta, G.; Iooss, G.; Kim, D.; Pathan, T.; Srinivasa, P.; Zou, Y. and Rajopadhye, S., (2012). AlphaZ: A System for Analysis, Transformation, and Code Generation in the Polyhedral Equational Model. Colorado State University, Tech. Rep"
+    },
+    {
+      "name": "Basupalli, V. (2011). The AlphaZ verifier. Master’s Thesis, Colorado State University, Fort Collins, CO"
+    },
+    {
+      "name": "Basupalli, V.; Yuki, T.; Rajopadhye, S.V.; Morvan, A.; Derrien, S.; Quinton, P.; Wonnacott, D. (2011). ompVerify: Polyhedral Analysis for the OpenMP Programmer. OpenMP in the Petascale Era, 37-53"
+  }]
+}
