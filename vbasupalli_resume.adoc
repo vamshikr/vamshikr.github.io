@@ -7,7 +7,7 @@ _Address_: 2811 La Frontera Blvd, Apt 1314, Austin, TX-78728
 *	13 years of programming experience in *Systems Programming, Software Security, High Performance Computing (HPC)* and *Embedded Systems*
 * Developed RESTful web services/applications with _Python Web Frameworks_ such as _aiohttp_, _Flask_ and _Tornado_
 * Built complex aggregation pipelines with _MongoDB_ and _Elasticsearch_
-* Well versed with orchestration and containerization technologies such as _Kubernetes_ and _Docker_
+* Built web-services with orchestration and containerization technologies such as _Kubernetes_ and _Docker_
 * Developed API clients and command line interfaces for _RESTful Web services_ in Python, Java and Bash
 *	One of the main back-end developers of Department of Homeland Security funded https://continuousassurance.org[Software Assurance Marketplace]
 ** Developed services that run in *Virtual Machines* and *Containers (Docker)* that run in a in-house cloud-based environment
