@@ -77,6 +77,11 @@
             <a class="nav-link js-scroll-trigger" href="#languages">Languages</a>
           </li>
       {% endif %}
+      {% if projects %}
+          <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="#projects">Projects</a>
+          </li>
+      {% endif %}
       </ul>
     </div>
   </nav>
@@ -256,6 +261,25 @@
       </div>
     </section>
     {% endif %}
+
+  {% if projects %}
+    <hr class="m-0">
+
+    <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="projects">
+      <div class="w-100">
+        <h2 class="mb-5"> Projects </h2>
+        <ul class="mb-0">
+        {% for project in projects %}
+          <li>
+            <p class="lead"> <a href="{{ project.link }}" target="_blank"> {{ project.title }}</a></p>
+            <p> {{ project.description }} </p>
+          </li>
+        {% endfor %}
+        </ul>
+      </div>
+    </section>
+    {% endif %}
+
 
   </div>
 
