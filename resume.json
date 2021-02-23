@@ -1,11 +1,11 @@
 {
   "basics": {
     "name": "Vamshi Basupalli",
-    "summary": "I am a Software Engineer. I build micro-services using Python asyncio, Kubernetes, MongoDB, ElasticSearch, RabbitMQ, Docker and Bash. In my career spanning 15 years, I have worked on Web Application Backend, Systems Programming, Software Security, High Performance Computing and Embedded Systems.",
+    "summary": "I am a Software Engineer. In my 15 year career, I have worked on Web Services, Systems Programming, Software Security, High Performance Computing and Embedded Systems.<br>Currently, I build backend services using Python asyncio, Kubernetes, MongoDB, ElasticSearch, RabbitMQ, Docker, Go and Bash.",
     "picture": "",
     "email": "vamshi.basupalli@outlook.com",
     "phone": "",
-    "website": "https://vamshikr.github.io/",
+    "website": "https://www.vamboy.co",
     "label": "Computer Software",
     "location": {
       "address": "2811 La Frontera Blvd",
@@ -41,7 +41,7 @@
       "position": "Senior Software Engineer",
       "website": "",
       "startDate": "2018-12-03",
-      "summary": "Built Multi Cloud Management Platform (MCMP), an IBM enterprise product. Technical lead and senior backend developer for health and multi-tenancy parts of the product",
+      "summary": "Building Multi Cloud Management Platform (MCMP), an IBM enterprise product. Technical lead and senior backend developer for actions, health and multi-tenancy parts of the product",
       "highlights": []
     },
     {
@@ -186,5 +186,17 @@
     },
     {
       "name": "Basupalli, V.; Yuki, T.; Rajopadhye, S.V.; Morvan, A.; Derrien, S.; Quinton, P.; Wonnacott, D. (2011). ompVerify: Polyhedral Analysis for the OpenMP Programmer. OpenMP in the Petascale Era, 37-53"
-  }]
+  }],
+  "projects": [
+    {
+      "title": "Drive Weather Forecast",
+      "link": "https://www.vamboy.co/forecast",
+      "description": "I am paranoid about driving in the snow on road trips; several years ago I built this application for myself to get the weather conditions through out the way. \nIn the spring of 2020, I had a chance to put it on the internet for family and friends to use."
+    },
+    {
+      "title": "Bingo Cards",
+      "link": "https://www.vamboy.co/bingo",
+      "description": "During the Covid-19 lock-down times, my wife wanted to play Bingo with her parents and neighbors but did not have the bingo tickets. \nThe application generates a Bingo ticket. Users can click and mark the numbers on the tickets."
+    }
+    ]
 }
