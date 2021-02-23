@@ -1,0 +1,8 @@
+.bundle/
+.vscode/
+Gemfile.lock
+_site/
+build/
+temp/
+vendor/bundle/
+venv/
