@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Vamshi Basupalli",
-    "summary": "I am a Software Engineer. In my 15 year career, I have worked on Web Services, Systems Programming, Software Security, High Performance Computing and Embedded Systems.<br>Currently, I build backend services using Python asyncio, Kubernetes, MongoDB, ElasticSearch, RabbitMQ, Docker, Go and Bash.",
+    "summary": "I am a Software Engineer. In my career spanning 15 years, I have worked on Web Services, Systems Programming, Software Security, High Performance Computing and Embedded Systems.<br>Currently, I build backend services using Python asyncio, Go, Kubernetes, MongoDB, ElasticSearch, RabbitMQ, Docker and Bash.",
     "picture": "",
     "email": "vamshi.basupalli@outlook.com",
     "phone": "",
@@ -16,22 +16,22 @@
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "vamshikr6",
-        "url": "https://twitter.com/vamshikr6"
-      },
-      {
         "network": "Github",
         "username": "vamshikr",
         "url": "https://github.com/vamshikr"
       },
       {
         "network": "Linkedin",
-        "url": "https://www.linkedin.com/in/vamshi-basupalli-94969644/"
+        "url": "https://www.linkedin.com/in/vamshi-basupalli"
       },
       {
         "network": "GoogleScholar",
         "url": "https://scholar.google.com/citations?user=EpBEY-MAAAAJ"
+      },
+      {
+        "network": "Twitter",
+        "username": "vamshibasupalli",
+        "url": "https://twitter.com/vamshibasupalli"
       }
     ]
   },
@@ -123,7 +123,7 @@
     {
       "name": "Languages",
       "level": "",
-      "keywords": ["Python", "Bash", "Java", "C/C++", "JavaScript", "HTML5", "CSS3"]
+      "keywords": ["Python", "Bash", "Go", "Java", "C/C++", "JavaScript", "HTML5", "CSS3"]
     },
     {
       "name": "Web Frameworks",
@@ -191,12 +191,12 @@
     {
       "title": "Drive Weather Forecast",
       "link": "https://www.vamboy.co/forecast",
-      "description": "I am paranoid about driving in the snow on road trips; several years ago I built this application for myself to get the weather conditions through out the way. \nIn the spring of 2020, I had a chance to put it on the internet for family and friends to use."
+      "description": "I am paranoid about driving in the snow on road trips; several years ago I built this application for myself to get the weather conditions through out the way. \nIn the spring of 2020, I had a chance to put it on the internet for family and friends to use.\nTechnologies used here are Python asyncio, websockets and Kubernetes"
     },
     {
       "title": "Bingo Cards",
       "link": "https://www.vamboy.co/bingo",
       "description": "During the Covid-19 lock-down times, my wife wanted to play Bingo with her parents and neighbors but did not have the bingo tickets. \nThe application generates a Bingo ticket. Users can click and mark the numbers on the tickets."
     }
-    ]
+  ]
 }
