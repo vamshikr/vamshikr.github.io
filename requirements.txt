@@ -1,6 +1,6 @@
-colander==1.4
+colander==1.8.3
 iso8601==0.1.12
-Jinja2==2.11.1
+Jinja2==3.0.1
 jsonresume-validator==0.1.5
 MarkupSafe==1.1.1
 pycountry==17.9.23
